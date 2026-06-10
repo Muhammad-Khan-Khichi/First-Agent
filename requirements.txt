@@ -1,0 +1,18 @@
+# LLM & Agent
+langchain
+langchain-groq
+langchain-community
+groq
+
+# Tools
+duckduckgo-search
+requests
+
+# Voice / STT
+faster-whisper
+
+# Frontend
+streamlit
+
+# Utils
+python-dotenv
