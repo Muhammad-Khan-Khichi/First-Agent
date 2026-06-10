@@ -1,25 +1,9 @@
-# LLM & Agent
 langchain
 langchain-groq
 langchain-community
 groq
-
-# Tools
 duckduckgo-search
-requests
-
-# Voice / STT
-faster-whisper
-
-# Frontend
-streamlit
-
-# Utils
-python-dotenvlangchain
-langchain-groq
-langchain-community
-groq
-duckduckgo-search
+ddgs
 requests
 faster-whisper
 streamlit
