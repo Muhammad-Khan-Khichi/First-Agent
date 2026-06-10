@@ -15,4 +15,12 @@ faster-whisper
 streamlit
 
 # Utils
+python-dotenvlangchain
+langchain-groq
+langchain-community
+groq
+duckduckgo-search
+requests
+faster-whisper
+streamlit
 python-dotenv
