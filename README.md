@@ -36,8 +36,8 @@ my_langchain_project/
 ### 1. Clone & enter the project
 
 ```bash
-git clone https://github.com/Muhammad-Khan-Khichi/your-repo.git
-cd your-repo
+git clone https://github.com/Muhammad-Khan-Khichi/First-Agent
+cd First-Agent
 ```
 
 ### 2. Install dependencies
